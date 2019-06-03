@@ -13,4 +13,6 @@ end
 
 # it "adds commas plus a final 'and' when given a 3-element array" do
 #     expect(oxford_comma(["kiwi", "durian", "starfruit"])).to eq("kiwi, durian, and starfruit")
+"kiwi, durian, starfruit"
+"kiwi, durian, and starfruit"
 #   end
